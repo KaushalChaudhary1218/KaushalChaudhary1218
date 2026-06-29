@@ -1,153 +1,141 @@
-Hi 👋 I'm Kaushal Kishor Chaudhary
-<div align="center">
-Cybersecurity Enthusiast | Aspiring SOC Analyst | Threat Detection Learner
+```markdown
+<h1 align="center">Hi, I'm Kaushal Kishor Chaudhary</h1>
 
-</div>
-<div align="center">
+<h3 align="center">
+SOC Analyst <br>
+Parul University | Cybersecurity Enthusiast
+</h3>
 
-</div>
-💫 About Me
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+SOC+Analyst;Cybersecurity+Enthusiast;SIEM+%7C+Threat+Detection+%7C+Incident+Response;Always+Learning+%26+Building&font=Fira%20Code&center=true&color=00F7FF&width=650&height=50"/>
+</p>
 
-🔐 Aspiring Security Operations Center (SOC) Analyst
+<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
 
-🎓 Pursuing Master of Computer Applications (MCA) at Parul University, Vadodara, Gujarat
+# 👨‍💻 About Me
 
-🎓 Completed Bachelor of Computer Applications (BCA) from Cimage College, Patna
+- 🎓 MCA Student at **Parul University, Vadodara**
+- 🛡️ Aspiring **Security Operations Center (SOC) Analyst**
+- 🔍 Passionate about **Threat Detection, Incident Response & Network Security**
+- 📚 Continuously learning Cybersecurity, SIEM Tools & Security Monitoring
+- 🚀 Building practical cybersecurity projects to strengthen real-world skills
 
-🛡️ Passionate about
+---
 
-Security Monitoring
-Incident Detection
-Threat Analysis
-Network Security
-SIEM Technologies
+# 🚀 Tech Stack
 
-🌱 Currently learning
+<p align="left">
 
-Advanced SIEM Operations
-Threat Hunting
-Incident Response
-Cyber Defense Techniques
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
 
-🎯 Career Objective
+</p>
 
-To begin my professional career as a Security Operations Center (SOC) Analyst in a growth-oriented organization where I can apply my cybersecurity knowledge, contribute to threat monitoring and incident response activities, and continuously enhance my expertise in security operations and emerging cyber threats.
+### Cybersecurity Tools
 
-⚡ Fun Fact
+- 🛡️ Splunk
+- 🛡️ Wazuh
+- 🛡️ ELK Stack
+- 🛡️ Wireshark
+- 🛡️ Nmap
 
-I enjoy analyzing network traffic and investigating security events to understand how attacks happen.
+### Networking & Security
 
-🌐 Connect With Me
-<div align="center">
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- Network Traffic Analysis
+- Firewall Concepts
+- IDS/IPS
+- Log Analysis
+- Event Correlation
+- Incident Detection
+- Alert Investigation
+- MITRE ATT&CK Framework
+- SIEM
 
-</div>
-💻 Tech Stack
-<div align="center">
+---
 
-</div>
-🛡️ Cybersecurity Tools
-Splunk
-Wazuh
-ELK Stack
-Wireshark
-Nmap
-🌐 Networking & Security
-TCP/IP
-DNS
-HTTP / HTTPS
-Firewall Concepts
-IDS / IPS
-Log Analysis
-Event Correlation
-Incident Detection
-Alert Investigation
-Network Traffic Analysis
-MITRE ATT&CK Framework
-SIEM
-🚀 Featured Projects
-🔐 Password Strength Analyzer & Security Advisor
-Tech Stack
-HTML
-CSS
-JavaScript
-Description
+# 📂 Featured Projects
 
-Developed a password security assessment tool that evaluates password strength using industry-standard security parameters and provides real-time recommendations for creating stronger passwords.
+## 🔐 Password Strength Analyzer & Security Advisor
 
-Key Features
-Password complexity validation
-Character diversity analysis
-Common attack pattern detection
-Real-time security recommendations
-Brute-force vulnerability assessment
-Dictionary attack awareness
-🌐 Network Traffic Analysis using Wireshark
-Tech Stack
-Wireshark
-Description
+**Tech Stack:** HTML, CSS, JavaScript
 
-Performed packet capture and network traffic analysis to identify communication patterns, investigate suspicious activities, and document potential security events.
+- Evaluates password strength using industry-standard security parameters
+- Detects weak passwords vulnerable to brute-force and dictionary attacks
+- Provides real-time recommendations for creating stronger passwords
+- Checks password complexity, length and character diversity
 
-Key Features
-Packet capture and inspection
-Protocol analysis
-Traffic monitoring
-Security anomaly investigation
-Network behavior analysis
-Security risk reporting
-🌱 Currently Learning
-Advanced Splunk
-Wazuh
-ELK Stack
-Threat Hunting
-Incident Response
-Security Monitoring
-MITRE ATT&CK Framework
-🛠️ Tools & IDEs
-Security Tools
-Splunk
-Wazuh
-ELK Stack
-Wireshark
-Nmap
-Development
-Git
-GitHub
-📊 GitHub Statistics
-<div align="center">
+---
 
-</div>
-📈 GitHub Activity Graph
+## 🌐 Network Traffic Analysis using Wireshark
 
-🏆 GitHub Trophies
-<div align="center">
+**Tech Stack:** Wireshark
 
-</div>
-📜 Certifications
+- Captured and analyzed live network traffic
+- Inspected packets and communication patterns
+- Identified suspicious network activities
+- Generated reports highlighting security risks and anomalies
 
-🏅 Cybersecurity Professional Certificate — Drop Organization (2024)
+---
 
-🏅 Computer Networks and Internet Protocol — NPTEL (2026)
+# 📊 GitHub Stats
 
-🏅 MERN Stack Development — Apna College (2024)
+<p align="center">
 
-🏅 Achievements
-Completed multiple cybersecurity certification programs.
-Built security-focused projects demonstrating practical cybersecurity concepts.
-Hands-on experience with SIEM platforms and network traffic analysis.
-Practical exposure to password security assessment and threat investigation.
-Strong foundation in cybersecurity fundamentals and network security.
+<img src="https://github-readme-stats.vercel.app/api?username=kaushalchaudhary1218&show_icons=true&theme=tokyonight"/>
 
-💡 Quote
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalchaudhary1218&theme=tokyonight"/>
 
-"Cybersecurity is not just about defending systems—it's about continuously learning, adapting, and staying one step ahead of evolving threats."
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalchaudhary1218&layout=compact&theme=tokyonight"/>
 
-📫 Reach Me
+</p>
 
-📧 Email: kaushalchaudhary8362@gmail.com
+---
 
-💻 GitHub: https://github.com/kaushalchaudhary1218
+# 🏆 GitHub Trophies
 
-💼 LinkedIn: https://linkedin.com/in/kaushal-chaudhary-9458a025a
+<p align="center">
 
-📍 Location: Vadodara, Gujarat, India
+<img src="https://github-profile-trophy.vercel.app/?username=kaushalchaudhary1218&theme=onestar&no-frame=true"/>
+
+</p>
+
+<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+
+---
+
+# 📜 Certifications
+
+- 🏅 Cybersecurity Professional Certificate — Drop Organization (2024)
+- 🏅 Computer Networks and Internet Protocol — NPTEL (2026)
+- 🏅 MERN Stack Development — Apna College (2024)
+
+---
+
+# 🏅 Achievements
+
+- Successfully built practical cybersecurity projects focused on password security and network traffic analysis.
+- Hands-on experience with SIEM tools including Splunk, Wazuh and ELK Stack for security monitoring and incident analysis.
+
+---
+
+# 🌐 Connect with Me
+
+📧 **Email:** kaushalchaudhary8362@gmail.com
+
+🐙 **GitHub:** https://github.com/kaushalchaudhary1218
+
+💼 **LinkedIn:** https://linkedin.com/in/kaushal-chaudhary-9458a025a
+
+---
+
+<p align="center">
+
+### ⭐ Keep Learning, Keep Building, Keep Growing ⭐
+
+</p>
+```
