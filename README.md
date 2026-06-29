@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">Hi 👋, I'm Kaushal Kishor Chaudhary</h1>
 <h3 align="center">🛡️ Aspiring SOC Analyst | MCA Student at Parul University | Cybersecurity Enthusiast</h3>
 
@@ -175,4 +175,4 @@ SIEM
 ### ⭐ Keep Learning • Keep Building • Keep Growing ⭐
 
 </p>
-````
+
