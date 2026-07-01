@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kaushal Kishor Chaudhary</h1>
-<h3 align="center">🛡️ Aspiring SOC Analyst | MCA Student at Parul University | Cybersecurity Enthusiast</h3>
+<h3 align="center">🛡️ Aspiring Security Analyst | MCA Student at Parul University | Cybersecurity Researcher</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+SOC+Analyst;Cybersecurity+Enthusiast;Threat+Detection+%7C+SIEM+%7C+Incident+Response;Always+Learning+%26+Building" alt="Typing SVG" />
