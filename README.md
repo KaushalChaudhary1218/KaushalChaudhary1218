@@ -160,7 +160,7 @@ SIEM
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/kaushal-chaudhary-9458a025a">
+<a href="www.linkedin.com/in/kaushal-chaudhary1219">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
